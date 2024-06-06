@@ -1,7 +1,6 @@
 <h1 align="center">What's up ✌️, I am Vishwajeet Singh</h1>
 <h3 align="center">• DevOps • Web Dev • System Design • Java • New tech stacks</h3>
 
-<p align="left"> <a href="https://twitter.com/vishsigg" target="blank"><img src="https://img.shields.io/twitter/follow/vishsigg?logo=twitter&style=for-the-badge" alt="vishsigg" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps, Web Dev, System Design**
 
