@@ -12,6 +12,12 @@
 
 ---
 
+## 🚀 About Me
+
+DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud automation, and infrastructure-as-code. Passionate about building resilient systems that scale, implementing security best practices, and driving observability across the stack.
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -29,59 +35,6 @@
 </p>
 
 </div>
-
----
-
-## 🚀 About Me
-
-DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud automation, and infrastructure-as-code. Passionate about building resilient systems that scale, implementing security best practices, and driving observability across the stack.
-
----
-
-## 📈 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [🎯 BoardGame-Java-AWS-CI-CD](https://github.com/Vishsig/BoardGame-Java-AWS-CI-CD)
-
-End-to-end CI/CD pipeline for 3-tier Java application with comprehensive DevSecOps practices.
-
-**Tech:** Docker • Kubernetes • Jenkins • Maven • AWS • Grafana • SonarQube • Prometheus • Trivy
-
-</td>
-<td width="50%">
-
-### [🔒 DevSecOps-Yelp-Campground-Clone-AWS](https://github.com/Vishsig/DevSecOps-Yelp-Campground-Clone-AWS)
-
-Security-first automated pipeline with full scan, test, and deployment automation.
-
-**Tech:** Kubernetes • Docker • Jenkins • AWS • MongoDB • SonarQube • Trivy • Grafana
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [☁️ Weather-App-Docker](https://github.com/Vishsig/Weather-App-Docker)
-
-Containerized application with complete CI/CD workflow automation and monitoring.
-
-**Tech:** Docker • Jenkins • JavaScript • API Integration
-
-</td>
-<td width="50%">
-
-### [🔧 Microservice](https://github.com/Vishsig/Microservice)
-
-Microservices architecture demonstrating distributed systems and orchestration.
-
-**Tech:** Java • Kubernetes • Docker • Service Mesh
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -188,6 +141,54 @@ Microservices architecture demonstrating distributed systems and orchestration.
 ---
 
 <div align="center">
+
+
+## 📈 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [🎯 BoardGame-Java-AWS-CI-CD](https://github.com/Vishsig/BoardGame-Java-AWS-CI-CD)
+
+End-to-end CI/CD pipeline for 3-tier Java application with comprehensive DevSecOps practices.
+
+**Tech:** Docker • Kubernetes • Jenkins • Maven • AWS • Grafana • SonarQube • Prometheus • Trivy
+
+</td>
+<td width="50%">
+
+### [🔒 DevSecOps-Yelp-Campground-Clone-AWS](https://github.com/Vishsig/DevSecOps-Yelp-Campground-Clone-AWS)
+
+Security-first automated pipeline with full scan, test, and deployment automation.
+
+**Tech:** Kubernetes • Docker • Jenkins • AWS • MongoDB • SonarQube • Trivy • Grafana
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [☁️ Weather-App-Docker](https://github.com/Vishsig/Weather-App-Docker)
+
+Containerized application with complete CI/CD workflow automation and monitoring.
+
+**Tech:** Docker • Jenkins • JavaScript • API Integration
+
+</td>
+<td width="50%">
+
+### [🔧 Microservice](https://github.com/Vishsig/Microservice)
+
+Microservices architecture demonstrating distributed systems and orchestration.
+
+**Tech:** Java • Kubernetes • Docker • Service Mesh
+
+</td>
+</tr>
+</table>
+
+---
 
 ### 💬 Let's Connect
 
