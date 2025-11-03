@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud automation, and infrastructure-as-code. Passionate about building resilient systems that scale, implementing security best practices, and driving observability across the stack.
+DevOps engineer specializing in enterprise-grade CI/CD pipelines, cloud automation, and infrastructure-as-code. Passionate about building resilient systems that scale, implementing security best practices, and driving observability across the stack.
 
 ---
 
