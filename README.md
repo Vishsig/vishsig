@@ -1,4 +1,4 @@
-![Light Blue Modern Business Twitter Header](https://github.com/Vishsig/vishsig/assets/106250744/bdc75217-f1c1-47e5-9b8a-5a7c73840914)
+![Light Blue Modern Business Twitter Header](https://github.com/Vishsig/vishsig/blob/main/macos-big-sur-stock-sedimentary-rocks-evening-starry-sky-6016x6016-3781.jpg?raw=true)
 
 <div align="center">
 
@@ -18,21 +18,20 @@ DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud auto
 
 ---
 
-## 🌐 Connect With Me
+
+## 🏆 Core Competencies
 
 <div align="center">
 
-<p>
-  <a href="https://x.com/vishsigg">
-    <img src="https://skillicons.dev/icons?i=x" width="50" alt="X" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
-  <a href="mailto:iamvishwajeet412@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
-  <a href="https://github.com/Vishsig">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
-</p>
+| 💡 Area | 🎯 Expertise |
+|---------|--------------|
+| **CI/CD Pipelines** | Jenkins • GitOps • Automated Testing • Deployment Automation |
+| **Container Orchestration** | Kubernetes • Docker • Helm • Service Mesh |
+| **Infrastructure as Code** | Terraform • Ansible • CloudFormation |
+| **Cloud Platforms** | AWS EC2/ECS/EKS • Azure AKS • Multi-Cloud Strategy |
+| **Monitoring & Observability** | Prometheus • Grafana • ELK Stack • Distributed Tracing |
+| **Security & Compliance** | DevSecOps • SonarQube • Trivy • RBAC • Network Policies |
+| **Automation & Scripting** | Bash • Python • Go • Java |
 
 </div>
 
@@ -122,24 +121,6 @@ DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud auto
 
 ---
 
-## 🏆 Core Competencies
-
-<div align="center">
-
-| 💡 Area | 🎯 Expertise |
-|---------|--------------|
-| **CI/CD Pipelines** | Jenkins • GitOps • Automated Testing • Deployment Automation |
-| **Container Orchestration** | Kubernetes • Docker • Helm • Service Mesh |
-| **Infrastructure as Code** | Terraform • Ansible • CloudFormation |
-| **Cloud Platforms** | AWS EC2/ECS/EKS • Azure AKS • Multi-Cloud Strategy |
-| **Monitoring & Observability** | Prometheus • Grafana • ELK Stack • Distributed Tracing |
-| **Security & Compliance** | DevSecOps • SonarQube • Trivy • RBAC • Network Policies |
-| **Automation & Scripting** | Bash • Python • Go • Java |
-
-</div>
-
----
-
 <div align="center">
 
 
@@ -191,6 +172,20 @@ Microservices architecture demonstrating distributed systems and orchestration.
 ---
 
 ### 💬 Let's Connect
+
+<div align="center">
+
+<p>
+  <a href="https://x.com/vishsigg">
+    <img src="https://skillicons.dev/icons?i=x" width="50" alt="X" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="mailto:iamvishwajeet412@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+</div>
+
 
 ⭐️ **Open to discussing DevOps transformations, cloud architecture, and automation strategies**
 
