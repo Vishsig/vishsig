@@ -1,21 +1,200 @@
 ![Light Blue Modern Business Twitter Header](https://github.com/Vishsig/vishsig/assets/106250744/bdc75217-f1c1-47e5-9b8a-5a7c73840914)
-<h1 align="center" >What's up ✌️, I am Vishwajeet Singh</h1>
 
+<div align="center">
 
-- 🌱 I’m currently learning **DevOps, Web Dev, System Design**
+# 👨‍💻 Vishwajeet Singh
 
-- 📝 I write blogs on **whatever I learn**
+### DevOps Engineer | Cloud Architect | Automation Specialist
 
-- 💬 Ask me about **DevOps, System Design, JAVA, Web Dev**
+*"Automating today for a more reliable tomorrow"*
 
-- 📫 How to reach me **iamvishwajeet412@gmail.com**
+</div>
 
-<hr></hr>
-<h3 align="left">Tech & Tools:</h3>
-<p align="left"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="50"/><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="50"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="50"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="50"/></p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishsigg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishsigg" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vishsig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vishsig" height="30" width="40" /></a>
+## 🌐 Connect With Me
+
+<div align="center">
+
+<p>
+  <a href="https://x.com/vishsigg">
+    <img src="https://skillicons.dev/icons?i=x" width="50" alt="X" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="mailto:iamvishwajeet412@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://github.com/Vishsig">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" style="margin: 10px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
 </p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+DevOps professional specializing in enterprise-grade CI/CD pipelines, cloud automation, and infrastructure-as-code. Passionate about building resilient systems that scale, implementing security best practices, and driving observability across the stack.
+
+---
+
+## 📈 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [🎯 BoardGame-Java-AWS-CI-CD](https://github.com/Vishsig/BoardGame-Java-AWS-CI-CD)
+
+End-to-end CI/CD pipeline for 3-tier Java application with comprehensive DevSecOps practices.
+
+**Tech:** Docker • Kubernetes • Jenkins • Maven • AWS • Grafana • SonarQube • Prometheus • Trivy
+
+</td>
+<td width="50%">
+
+### [🔒 DevSecOps-Yelp-Campground-Clone-AWS](https://github.com/Vishsig/DevSecOps-Yelp-Campground-Clone-AWS)
+
+Security-first automated pipeline with full scan, test, and deployment automation.
+
+**Tech:** Kubernetes • Docker • Jenkins • AWS • MongoDB • SonarQube • Trivy • Grafana
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [☁️ Weather-App-Docker](https://github.com/Vishsig/Weather-App-Docker)
+
+Containerized application with complete CI/CD workflow automation and monitoring.
+
+**Tech:** Docker • Jenkins • JavaScript • API Integration
+
+</td>
+<td width="50%">
+
+### [🔧 Microservice](https://github.com/Vishsig/Microservice)
+
+Microservices architecture demonstrating distributed systems and orchestration.
+
+**Tech:** Java • Kubernetes • Docker • Service Mesh
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Infrastructure & Orchestration
+
+<p>
+  <a href="https://www.terraform.io/">
+    <img src="https://skillicons.dev/icons?i=terraform" width="60" alt="Terraform" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="60" alt="Kubernetes" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://www.ansible.com/">
+    <img src="https://skillicons.dev/icons?i=ansible" width="60" alt="Ansible" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+### Cloud Platforms
+
+<p>
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://skillicons.dev/icons?i=azure" width="60" alt="Azure" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+### CI/CD & Version Control
+
+<p>
+  <a href="https://www.jenkins.io/">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="60" alt="Jenkins" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+### Monitoring & Security
+
+<p>
+  <a href="https://prometheus.io/">
+    <img src="https://skillicons.dev/icons?i=prometheus" width="60" alt="Prometheus" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://grafana.com/">
+    <img src="https://skillicons.dev/icons?i=grafana" width="60" alt="Grafana" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/">
+    <img src="https://skillicons.dev/icons?i=sonarqube" width="60" alt="SonarQube" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://github.com/aquasecurity/trivy">
+    <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/images/logo.png" width="60" alt="Trivy" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+### Programming Languages
+
+<p>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://skillicons.dev/icons?i=go" width="60" alt="Go" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🏆 Core Competencies
+
+<div align="center">
+
+| 💡 Area | 🎯 Expertise |
+|---------|--------------|
+| **CI/CD Pipelines** | Jenkins • GitOps • Automated Testing • Deployment Automation |
+| **Container Orchestration** | Kubernetes • Docker • Helm • Service Mesh |
+| **Infrastructure as Code** | Terraform • Ansible • CloudFormation |
+| **Cloud Platforms** | AWS EC2/ECS/EKS • Azure AKS • Multi-Cloud Strategy |
+| **Monitoring & Observability** | Prometheus • Grafana • ELK Stack • Distributed Tracing |
+| **Security & Compliance** | DevSecOps • SonarQube • Trivy • RBAC • Network Policies |
+| **Automation & Scripting** | Bash • Python • Go • Java |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+⭐️ **Open to discussing DevOps transformations, cloud architecture, and automation strategies**
+
+---
+
+*Building scalable, secure, and highly automated cloud-native infrastructure*
+
+</div>
