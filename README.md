@@ -4,7 +4,7 @@
 
 # 👨‍💻 Vishwajeet Singh
 
-### DevOps Engineer | Cloud Architect | Automation Specialist
+### DevOps Engineer | Cloud Architect | Automation Engineer
 
 *"Automating today for a more reliable tomorrow"*
 
