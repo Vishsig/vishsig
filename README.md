@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 Vishwajeet Singh
+# Vishwajeet Singh
 
 ### DevOps Engineer | Cloud Architect | Automation Engineer
 
