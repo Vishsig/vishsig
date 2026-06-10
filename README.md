@@ -50,9 +50,6 @@ DevOps engineer specializing in enterprise-grade CI/CD pipelines, cloud automati
   <a href="https://kubernetes.io/">
     <img src="https://skillicons.dev/icons?i=kubernetes" width="60" alt="Kubernetes" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
   </a>
-  <a href="https://www.ansible.com/">
-    <img src="https://skillicons.dev/icons?i=ansible" width="60" alt="Ansible" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
   </a>
@@ -111,9 +108,6 @@ DevOps engineer specializing in enterprise-grade CI/CD pipelines, cloud automati
   </a>
   <a href="https://go.dev/">
     <img src="https://skillicons.dev/icons?i=go" width="60" alt="Go" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
   </a>
 </p>
 
