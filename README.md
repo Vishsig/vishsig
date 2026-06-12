@@ -65,10 +65,6 @@ DevOps engineer specializing in enterprise-grade CI/CD pipelines, cloud automati
   <a href="https://aws.amazon.com/">
     <img src="https://skillicons.dev/icons?i=aws" width="60" alt="AWS" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
   </a>
-  <a href="https://azure.microsoft.com/">
-    <img src="https://skillicons.dev/icons?i=azure" width="60" alt="Azure" style="margin: 12px; filter: drop-shadow(0 8px 12px rgba(0,0,0,0.2));"/>
-  </a>
-</p>
 
 ### CI/CD & Version Control
 
