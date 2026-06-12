@@ -25,13 +25,14 @@ DevOps engineer specializing in enterprise-grade CI/CD pipelines, cloud automati
 
 | 💡 Area | 🎯 Expertise |
 |---------|--------------|
-| **CI/CD Pipelines** | Jenkins • GitLab • Automated Testing • Deployment Automation |
+| **CI/CD Pipelines** | Jenkins • GitLab |
 | **Container Orchestration** | Kubernetes • Docker • Helm |
 | **Infrastructure as Code** | Terraform |
-| **Cloud Platforms** | AWS EC2/ECS/EKS • Azure AKS |
+| **Cloud Platforms** | AWS (EC2/ECS/EKS/LAMBDA/CLOUDWATCH/CLOUDTRAIL/EKS/EC2/IAM/VPC) |
 | **Monitoring & Observability** | Prometheus • Grafana |
-| **Security & Compliance** | DevSecOps • SonarQube • Trivy • RBAC • Network Policies |
+| **Security & Compliance** | SonarQube • Trivy |
 | **Automation & Scripting** | Python, Shell scripting |
+| **Version control** | Git, GitHub |
 
 </div>
 
